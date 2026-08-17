@@ -58,7 +58,7 @@ Este repositório utiliza **Semantic Release**. Todo commit deve seguir o format
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/jeniferplacido/venci.git](https://github.com/jeniferplacido/venci.git)
+   git clone https://github.com/jeniferplacido/venci.git
    
    cd venci
 
@@ -74,11 +74,3 @@ Este repositório utiliza **Semantic Release**. Todo commit deve seguir o format
 
 ---
 
-### Passo 3: Commitando a Documentação e Configuração
-
-Execute no seu terminal:
-
-```bash
-git add .
-git commit -m "docs: adicionar documentação inicial e configurar semantic release"
-git push
